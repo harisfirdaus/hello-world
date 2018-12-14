@@ -1,2 +1,3 @@
 # hello-world
-belajar 
+Halo, man-teman, saya masih belajar
+Sangat baru baru banget
